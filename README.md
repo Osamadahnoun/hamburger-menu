@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is the fourth in my UI mastery series. The UI mastery series is a series I created consisting of eight total projects (mini and full projects) to really master my UI development skills. For this project, I created a landing page with a fully-functional hamburger menu.
+This mini project is the fourth in my UI mastery series. The UI mastery series is a series I created consisting of eight total projects (mini and full projects) to really master my UI development skills. For this project, I created a landing page with a fully-functional hamburger menu.
 
 ## Screenshot
 
